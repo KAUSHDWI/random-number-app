@@ -1,2 +1,3 @@
 ﻿# random-number-app
 
+Good
